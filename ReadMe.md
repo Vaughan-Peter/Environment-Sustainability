@@ -5,7 +5,7 @@ It covers the entire lifecycle of electronics—from materials and production to
 
 ---
 
-## 📌 What’s Inside
+## 📌 What’s Inside -> Documents -> Electronic Sustainability Questions
 - ✅ 100 open-ended questions grouped into six themes:
   - General Awareness
   - Production & Materials
@@ -41,4 +41,5 @@ Feel free to use and adapt the material—just credit this repo.
 ---
 
 ## 💡 Inspiration
+
 > “Can technology itself solve the problems caused by technology?”  
