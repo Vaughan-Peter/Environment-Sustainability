@@ -36,10 +36,11 @@ If you’d like to add new questions, improve documentation, or share resources,
 
 ## 📖 License
 This project is licensed under the [MIT License](LICENSE).  
-Feel free to use and adapt the material—just credit this repo.  
+Feel free to use and adapt the material — just credit this repo.  
 
 ---
 
 ## 💡 Inspiration
 
 > “Can technology itself solve the problems caused by technology?”  
+
