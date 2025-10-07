@@ -56,51 +56,21 @@ I enjoy working with people who share an interest in:
 - Experimental and educational initiatives
 
 ---
-# Electronic Sustainability: Innovation vs. Emission
 
-## The Challenge
+## Electronic Sustainability: Innovation vs. Pollution
 
-As technology advances, the global demand for energy continues to rise. Electronic sustainability focuses on reducing the environmental impact of power generation and consumption in the digital age — from the electricity that runs data centers to the materials used in our devices. The contrast between **renewable innovation** and **fossil-fuel dependency** remains one of the defining sustainability challenges of our time.
+Modern technology plays a dual role in sustainability—both as a challenge and a solution.  
+**Vertical farming**, for example, uses advanced sensors, automation, and LED lighting to grow food efficiently in stacked layers. This approach minimizes land use, recycles water, and reduces transportation emissions.
 
----
+<img width="1536" height="1024" alt="1 Vertical Farming" src="https://github.com/user-attachments/assets/9a24ae7a-dbfe-471f-ade3-5df8ecfa0b72" />
 
-## Clean Innovation: Vertical Farming and Smart Systems
+In contrast, **coal-burning power plants**—once the backbone of industrial energy—remain a major source of carbon emissions and environmental degradation. Transitioning from these outdated systems to cleaner, tech-driven solutions is essential for a sustainable future.
 
-![Vertical Farming – Modern, Energy-Efficient Agriculture](A_high-resolution_photograph_captures_a_vertical_f.png)
-
-Vertical farming represents the synergy between clean energy, automation, and sustainable design. Using **LED lighting, IoT sensors, and hydroponic systems**, it minimizes land and water use while enabling food production near urban centers.  
-These systems often run on **renewable or smart-managed power**, integrating with solar grids or low-emission microgrids — making them a model for sustainable electronic systems.
-
-Key sustainability features:
-- **Energy efficiency:** Smart-controlled LED arrays and AI-driven climate regulation.  
-- **Reduced waste:** Closed-loop water and nutrient systems.  
-- **Scalability:** Modular designs powered by low-impact electronics.
-
----
-
-## Emission Legacy: Coal-Burning Power Plants
-
-![Coal-Burning Power Plant – Industrial Emission Source](A_photograph_taken_during_daytime_under_an_overcas.png)
-
-In contrast, coal-fired power plants continue to be a major source of **carbon emissions and particulate pollution**. Despite decades of advancement, the process of burning coal for electricity remains highly inefficient and environmentally damaging.  
-Electronic systems powered by coal-heavy grids indirectly contribute to greenhouse gas accumulation and ecosystem degradation.
-
-Environmental costs include:
-- **CO₂ emissions:** Primary driver of global warming.  
-- **Airborne particulates:** Harmful to human and environmental health.  
-- **Water use and contamination:** From cooling systems and ash disposal.
-
----
-
-## The Path Forward
-
-Achieving sustainable electronics requires **transitioning from coal-powered grids to renewables**, **adopting smart energy management**, and **integrating circular design principles** in hardware manufacturing.  
-Technologies like vertical farming demonstrate how intelligent electronic systems can coexist with sustainability, rather than work against it.
-
-> “The future of electronics depends not just on performance, but on the power source behind the plug.”
+<img width="1536" height="1024" alt="1 Coal Power Plant" src="https://github.com/user-attachments/assets/38ae6de9-cc85-4dec-b86f-df62b93dc3bb" />
 
 ---
 
 If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
+
 
