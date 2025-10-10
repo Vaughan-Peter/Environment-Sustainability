@@ -1,4 +1,4 @@
-# 🌍 Sustainable Electronics Discussions
+# 🌍 Sustainable Electronics and Environmental Discussions
 
 This repository is a collection of **questions, prompts, and resources** designed to spark conversations about **electronics and environmental sustainability**.  
 It covers the entire lifecycle of electronics—from materials and production to usage, disposal, innovation, and future policies.  
@@ -30,7 +30,7 @@ This repo is useful for:
 
 ## 🤝 Contributing
 Contributions are welcome!  
-If you’d like to add new questions, improve documentation, or share resources, please check out our [Contributing Guide](CONTRIBUTING.md).  
+If you’d like to add new questions, improve documentation, or share resources, please check out our [Contributing Guide](Contributing.md).  
 
 ---
 
@@ -43,4 +43,5 @@ Feel free to use and adapt the material — just credit this repo.
 ## 💡 Inspiration
 
 > “Can technology itself solve the problems caused by technology?”  
+
 
