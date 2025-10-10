@@ -1,4 +1,4 @@
-# 🌍 Sustainable Electronics and Environmental Discussions
+# 🌍 Sustainable Electronics and Various Environmental Discussions - Worldwide
 
 This repository is a collection of **questions, prompts, and resources** designed to spark conversations about **electronics and environmental sustainability**.  
 It covers the entire lifecycle of electronics—from materials and production to usage, disposal, innovation, and future policies.  
@@ -34,6 +34,16 @@ If you’d like to add new questions, improve documentation, or share resources,
 
 ---
 
+## 🧭 Code of Conduct
+We are committed to fostering a welcoming, respectful, and inclusive community.  
+By participating in this project, you agree to uphold the values of kindness, collaboration, and professionalism.  
+
+Please review our [Code of Conduct](Code_of_Conduct.md) to understand the standards we expect from all contributors and maintainers.  
+
+If you encounter any behavior that violates these principles, please contact the project maintainers.  
+
+---
+
 ## 📖 License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and adapt the material — just credit this repo.  
@@ -45,3 +55,37 @@ Feel free to use and adapt the material — just credit this repo.
 > “Can technology itself solve the problems caused by technology?”  
 
 
+## 📸 Recycling Photo Gallery
+
+A look at different recycling initiatives and drop-off points in our community:
+
+---
+
+### 🔋 Battery Recycling  
+<img width="400" alt="Recycle Batteries 1" src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" />
+
+&nbsp;  
+&nbsp;  
+
+### 💻 Electronics Recycling  
+<img width="400" alt="Recycle Electronics 1" src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" />
+
+&nbsp;  
+&nbsp;  
+
+### 💡 Lightbulb Recycling  
+![Recycle Lightbulbs 2](https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724)
+
+&nbsp;  
+&nbsp;  
+
+### 🖊️ Pen Recycling  
+![Recycle Pens 3](https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda)
+
+&nbsp;  
+&nbsp;  
+
+### ☕ Nespresso Capsule Recycling  
+![Recycling Nespresso 1](https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541)
+
+---
