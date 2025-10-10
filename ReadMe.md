@@ -54,6 +54,7 @@ Feel free to use and adapt the material — just credit this repo.
 
 > “Can technology itself solve the problems caused by technology?”  
 
+---
 
 ## 📸 Recycling Photo Gallery
 
@@ -62,30 +63,32 @@ A look at different recycling initiatives and drop-off points in our community:
 ---
 
 ### 🔋 Battery Recycling  
-<img width="400" alt="Recycle Batteries 1" src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" />
+<img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" alt="Recycle Batteries 1" width="500" />
 
 &nbsp;  
 &nbsp;  
 
 ### 💻 Electronics Recycling  
-<img width="400" alt="Recycle Electronics 1" src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" />
+<img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" alt="Recycle Electronics 1" width="500" />
 
 &nbsp;  
 &nbsp;  
 
 ### 💡 Lightbulb Recycling  
-![Recycle Lightbulbs 2](https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724)
+<img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" alt="Recycle Lightbulbs 2" width="500" />
 
 &nbsp;  
 &nbsp;  
 
 ### 🖊️ Pen Recycling  
-![Recycle Pens 3](https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda)
+<img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" alt="Recycle Pens 3" width="500" />
 
 &nbsp;  
 &nbsp;  
 
 ### ☕ Nespresso Capsule Recycling  
-![Recycling Nespresso 1](https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541)
+<img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso 1" width="500" />
 
 ---
+
+
