@@ -59,8 +59,8 @@ If you encounter any behavior that violates these principles, please contact the
 ---
 
 ## 📖 License
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use and adapt the material — just credit this repo.  
+This project is licensed under the MIT License.  
+Feel free to use and adapt the material — just credit this repo.
 
 ---
 
@@ -104,6 +104,7 @@ A look at different recycling initiatives and drop-off points in our community:
 <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso 1" width="500" />
 
 ---
+
 
 
 
