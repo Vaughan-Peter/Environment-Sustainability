@@ -32,8 +32,8 @@ We welcome contributions from **everyone**—whether you’re adding new questio
 ---
 
 ## 💡 Suggestions
-If you’re not sure where to start, check the open [Issues](./issues) for ideas or propose your own.  
-Even small contributions—like fixing a typo—help make this repo better!  
+If you have ideas or feedback, feel free to open a discussion or reach out with your suggestions.  
+Even small contributions—like fixing a typo—help make this repo better!
 
 ---
 ## 📬 Ways to Contact Me
@@ -72,6 +72,7 @@ In contrast, **coal-burning power plants**—once the backbone of industrial ene
 
 If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
+
 
 
 
