@@ -5,6 +5,16 @@ It covers the entire lifecycle of electronics—from materials and production to
 
 ---
 
+## 🎯 Purpose
+The goal is to **raise awareness** and encourage **collaborative learning** about how electronics affect our planet, and what we can do to make technology more sustainable.  
+This repo is useful for:
+- Teachers & students  
+- Workshop leaders  
+- Researchers  
+- Anyone curious about sustainable electronics  
+
+---
+
 ## 📌 What’s Inside -> Documents -> Electronic Sustainability Questions
 - ✅ 100 open-ended questions grouped into six themes:
   - General Awareness
@@ -18,13 +28,17 @@ It covers the entire lifecycle of electronics—from materials and production to
 
 ---
 
-## 🎯 Purpose
-The goal is to **raise awareness** and encourage **collaborative learning** about how electronics affect our planet, and what we can do to make technology more sustainable.  
-This repo is useful for:
-- Teachers & students  
-- Workshop leaders  
-- Researchers  
-- Anyone curious about sustainable electronics  
+## ♻️ Recycling Resources
+
+If you’re looking for ways to responsibly recycle items and reduce waste, here are some helpful resources and programs:
+
+- **[TerraCycle](https://www.terracycle.com/en-CA)** – Offers recycling programs for hard-to-recycle waste such as packaging, electronics, and personal care products. Available in Canada and internationally.  
+- **[Recycle My Electronics](https://recyclemyelectronics.ca/)** – A Canadian program for safely recycling electronic devices, from computers and phones to printers and TVs.  
+- **[Call2Recycle](https://www.call2recycle.ca/)** – A free battery and cellphone recycling program available across Canada.  
+- **[Earth911 Recycling Search](https://search.earth911.com/)** – A global directory that helps you find local drop-off locations for specific materials.  
+- **[Packaging Stewardship Programs](https://www.environnement.gouv.qc.ca/matieres/emballages/)** – Province-specific recycling guidelines for accepted materials and collection schedules in Canada.  
+
+> 💡 **Tip:** Many municipalities also provide recycling apps or websites that list accepted materials, pickup schedules, and drop-off depots for hazardous or electronic waste.
 
 ---
 
@@ -90,5 +104,6 @@ A look at different recycling initiatives and drop-off points in our community:
 <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso 1" width="500" />
 
 ---
+
 
 
