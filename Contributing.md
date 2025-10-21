@@ -57,7 +57,7 @@ I enjoy working with people who share an interest in:
 
 ---
 
-## Electronic Sustainability: Innovation vs. Pollution
+## Topic for Collaboration: Innovation vs. Pollution
 
 Modern technology plays a dual role in sustainability—both as a challenge and a solution.  
 **Vertical farming**, for example, uses advanced sensors, automation, and LED lighting to grow food efficiently in stacked layers. This approach minimizes land use, recycles water, and reduces transportation emissions.
@@ -72,5 +72,6 @@ In contrast, **coal-burning power plants**—once the backbone of industrial ene
 
 If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
+
 
 
