@@ -84,41 +84,89 @@ Feel free to use and adapt the material — just credit this repo.
 
 ## 📸 Recycling Photo Gallery
 
-A look at different recycling initiatives and drop-off points in our community:
+A look at different recycling initiatives and drop-off points in our community.
 
 ---
 
-### 🔋 Battery Recycling  
-<img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" alt="Recycle Batteries 1" width="500" />
+### 🔋 Battery Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" alt="Recycle Batteries" width="500" />
+</p>
 
 &nbsp;  
 &nbsp;  
-
-### 💻 Electronics Recycling  
-<img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" alt="Recycle Electronics 1" width="500" />
-
-&nbsp;  
-&nbsp;  
-
-### 💡 Lightbulb Recycling  
-<img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" alt="Recycle Lightbulbs 2" width="500" />
-
-&nbsp;  
-&nbsp;  
-
-### 🖊️ Pen Recycling  
-<img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" alt="Recycle Pens 3" width="500" />
-
-&nbsp;  
-&nbsp;  
-
-### ☕ Nespresso Capsule Recycling  
-<img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso 1" width="500" />
+<br>
 
 ---
 
+### 💻 Electronics Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" alt="Recycle Electronics" width="500" />
+</p>
 
+&nbsp;  
+&nbsp;  
+<br>
 
+---
 
+### 💡 Lightbulb Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" alt="Recycle Lightbulbs" width="500" />
+</p>
 
+&nbsp;  
+&nbsp;  
+<br>
 
+---
+
+### 🖊️ Pen Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" alt="Recycle Pens" width="500" />
+</p>
+
+&nbsp;  
+&nbsp;  
+<br>
+
+---
+
+### ☕ Nespresso Capsule Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso Capsules" width="500" />
+</p>
+
+&nbsp;  
+&nbsp;  
+<br>
+
+---
+
+### 🖨️ Printer Toner Recycling
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/992bb2a4-7b9a-433f-87ac-9733c75eead4" alt="Recycling Printer Toner" width="500" />
+</p>
+
+&nbsp;  
+&nbsp;  
+<br>
+
+---
+
+### ✏️ Writing Tools & E-Waste Collection
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18ee8293-4817-4f0b-9273-ffe2757e274b" alt="Recycling Writing Tools and E-Waste" width="500" />
+</p>
+
+&nbsp;  
+&nbsp;  
+<br>
+
+---
+
+<p align="center">
+  <em>These images highlight some — but not all — examples of special waste recycling in Halifax, Nova Scotia.</em>
+</p>
+
+---
