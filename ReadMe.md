@@ -96,8 +96,6 @@ A look at different recycling initiatives and drop-off points in our community.
 &nbsp;  
 &nbsp;  
 
----
-
 ### 💻 Electronics Recycling
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" alt="Recycle Electronics" width="500" />
@@ -105,8 +103,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-
----
 
 ### 💡 Lightbulb Recycling
 <p align="center">
@@ -116,8 +112,6 @@ A look at different recycling initiatives and drop-off points in our community.
 &nbsp;  
 &nbsp;  
 
----
-
 ### 🖊️ Pen Recycling
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" alt="Recycle Pens" width="500" />
@@ -125,8 +119,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-
----
 
 ### ☕ Nespresso Capsule Recycling
 <p align="center">
@@ -136,8 +128,6 @@ A look at different recycling initiatives and drop-off points in our community.
 &nbsp;  
 &nbsp;  
 
----
-
 ### 🖨️ Printer Toner Recycling
 <p align="center">
   <img src="https://github.com/user-attachments/assets/992bb2a4-7b9a-433f-87ac-9733c75eead4" alt="Recycling Printer Toner" width="500" />
@@ -145,8 +135,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-
----
 
 ### ✏️ Writing Tools & E-Waste Collection
 <p align="center">
@@ -163,4 +151,5 @@ A look at different recycling initiatives and drop-off points in our community.
 </p>
 
 ---
+
 
