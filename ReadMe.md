@@ -15,6 +15,18 @@ This repo is useful for:
 
 ---
 
+## 🌍 Collaboration Invitation
+
+I’m seeking to connect with **students, educators, and organizations** interested in creating content about **environmental awareness, recycling, and sustainability**.
+
+This project can also count as a **work placement or experiential learning opportunity** for school programs in sustainability or environmental studies.
+
+If you’d like to collaborate or contribute, feel free to reach out — let’s build a cleaner, more sustainable future together. 🌱
+
+📧 **Email:** [otherhalifaxprojects@gmail.com](mailto:otherhalifaxprojects@gmail.com)
+
+---
+
 ## 📌 What’s Inside -> Documents -> Electronic Sustainability Questions
 - ✅ 100 open-ended questions grouped into six themes:
   - General Awareness
@@ -104,6 +116,7 @@ A look at different recycling initiatives and drop-off points in our community:
 <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso 1" width="500" />
 
 ---
+
 
 
 
