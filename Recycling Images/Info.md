@@ -37,7 +37,7 @@ The following items are accepted at Halifax’s HSW Depot:
 
 ## 🚫 Items *Not* Accepted
 
-These items **cannot** be taken to the HSW Depot:
+These items **cannot** be taken to the HSW Depot (but still requires special recycling):
 
 - Regular garbage, recycling, cardboard
 - Cooking oil or used vegetable oil
@@ -128,3 +128,22 @@ If you live elsewhere:
 
 📍 *Location: Halifax, Nova Scotia, Canada*  
 📘 *Purpose: To serve as an educational example for recycling and waste management awareness.*
+
+---
+
+## 🖼️ Examples of Household Special Waste
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce685013-72ef-4a45-be0e-39b4870b7c29" alt="Recycle Batteries" width="300" height="300" style="margin:10px;">
+  <img src="https://github.com/user-attachments/assets/ee086b46-7107-4657-9182-34cf732b8c41" alt="Recycle Lightbulbs" width="300" height="300" style="margin:10px;">
+  <img src="https://github.com/user-attachments/assets/260b6ad9-94d5-441b-bf7d-034374124805" alt="Recycle Pens" width="300" height="300" style="margin:10px;">
+  <img src="https://github.com/user-attachments/assets/ce5fe3aa-0406-41cd-a90d-7d70973a8a52" alt="Recycling Ink Cartridges" width="300" height="300" style="margin:10px;">
+</p>
+
+<p align="center">
+  <em>These are some — but not all — examples of household special waste that can be safely recycled or disposed of at local depots.</em>
+</p>
+
+---
+
+
