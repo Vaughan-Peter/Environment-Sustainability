@@ -41,7 +41,10 @@ Participation in this project can be recognized as a **work placement or experie
 - Sustainability  
 - Communications  
 - Community Development  
-- Digital Media or Education  
+- Digital Media or Education
+- Any Business Major
+- Electrical & Electronics Majors
+- Programmers
 
 If you’d like to **collaborate, contribute ideas, or partner on sustainability projects**, please reach out via GitHub or through my profile contact information.
 
@@ -99,6 +102,7 @@ In contrast, **coal-burning power plants**—once the backbone of industrial ene
 
 If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
+
 
 
 
