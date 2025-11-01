@@ -87,9 +87,7 @@ Feel free to use and adapt the material — just credit this repo.
 <p align="center">
   A look at a few different recycling initiatives and drop-off points in our community within Canada. There are many more options for recycling.
 </p>
-
-&nbsp;  
-&nbsp;  
+ 
 ---
 
 <p align="center"><b>🔋 Battery Recycling</b></p>
@@ -155,5 +153,6 @@ Feel free to use and adapt the material — just credit this repo.
 </p>
 
 ---
+
 
 
