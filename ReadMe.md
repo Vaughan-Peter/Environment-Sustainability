@@ -95,7 +95,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -106,7 +105,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -117,7 +115,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -128,7 +125,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -139,7 +135,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -150,7 +145,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -161,7 +155,6 @@ A look at different recycling initiatives and drop-off points in our community.
 
 &nbsp;  
 &nbsp;  
-<br>
 
 ---
 
@@ -170,3 +163,4 @@ A look at different recycling initiatives and drop-off points in our community.
 </p>
 
 ---
+
