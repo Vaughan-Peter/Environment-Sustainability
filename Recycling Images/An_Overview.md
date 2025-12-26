@@ -146,4 +146,14 @@ If you live elsewhere:
 
 ---
 
+## Environmental Degradation: Legal vs Ethical Impact
 
+Environmental degradation often occurs within the boundaries of existing laws, yet still results in long-term harm to ecosystems and communities. Regulatory frameworks frequently lag behind scientific understanding, allowing pollution, resource depletion, and habitat destruction to continue at levels that are legally permissible but environmentally damaging.
+
+Ethical responsibility extends beyond legal compliance. Organizations and individuals must consider cumulative environmental impacts, intergenerational consequences, and the externalization of environmental costs. Sustainable decision-making requires minimizing harm, prioritizing long-term resilience, and recognizing that legality does not inherently equate to environmental or social responsibility.
+
+<img width="300" height="300" style="margin:10px;" alt="Environmental Degradation - AI Field 1" src="https://github.com/user-attachments/assets/bf5ee8cd-eb26-4bc8-b4e3-548e36408c66" />
+
+<img width="300" height="300" style="margin:10px;" alt="Environmental Degradation - Beach 1" src="https://github.com/user-attachments/assets/a6cc7e0c-34c9-446c-9164-8304a0de11ce" />
+
+<img width="300" height="300" style="margin:10px;" alt="Environmental Degradation - AI Forest 1" src="https://github.com/user-attachments/assets/9c3c5cbe-d022-45a5-ae9b-6e6a6664db7b" />
