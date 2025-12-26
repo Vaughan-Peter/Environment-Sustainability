@@ -2,16 +2,20 @@
 
 This repository is a collection of **questions, prompts, and resources** designed to spark conversations about **electronics and environmental sustainability**.  
 It covers the entire lifecycle of electronics—from materials and production to usage, disposal, innovation, and future policies.  
+<br>
+Environmental degradation is a central concern throughout these discussions, as electronic systems rely heavily on resource extraction, energy consumption, and waste streams that can damage ecosystems and human health if left unaddressed.
 
 ---
 
 ## 🎯 Purpose
 The goal is to **raise awareness** and encourage **collaborative learning** about how electronics affect our planet, and what we can do to make technology more sustainable.  
+By examining environmental degradation alongside technological progress, this repository emphasizes the importance of reducing harm, improving accountability, and designing electronics with long-term ecological impact in mind.  
+
 This repo is useful for:
 - Teachers & students  
 - Workshop leaders  
 - Researchers  
-- Anyone curious about sustainable electronics  
+- Anyone curious about sustainable electronics
 
 ---
 
@@ -153,6 +157,7 @@ Feel free to use and adapt the material — just credit this repo.
 </p>
 
 ---
+
 
 
 
