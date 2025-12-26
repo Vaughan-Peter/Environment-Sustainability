@@ -158,3 +158,5 @@ Ethical responsibility extends beyond legal compliance. Organizations and indivi
 <img width="300" height="300" style="margin:10px;" alt="Environmental Degradation - AI Forest 1" src="https://github.com/user-attachments/assets/9c3c5cbe-d022-45a5-ae9b-6e6a6664db7b" />
 </p>
 
+---
+
