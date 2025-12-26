@@ -1,8 +1,9 @@
 # 🌍 Sustainable Electronics and Various Environmental Discussions - Worldwide
 
-This repository is a collection of **questions, prompts, and resources** designed to spark conversations about **electronics and environmental sustainability**.  
-It covers the entire lifecycle of electronics—from materials and production to usage, disposal, innovation, and future policies.  
+This repository is a collection of **questions, prompts, and resources** designed to spark conversations about **electronics and environmental sustainability**. It covers the entire lifecycle of electronics—from materials and production to usage, disposal, innovation, and future policies.  
+
 <br>
+
 Environmental degradation is a central concern throughout these discussions, as electronic systems rely heavily on resource extraction, energy consumption, and waste streams that can damage ecosystems and human health if left unaddressed.
 
 ---
@@ -157,6 +158,7 @@ Feel free to use and adapt the material — just credit this repo.
 </p>
 
 ---
+
 
 
 
