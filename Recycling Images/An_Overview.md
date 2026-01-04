@@ -160,3 +160,85 @@ Ethical responsibility extends beyond legal compliance. Organizations and indivi
 
 ---
 
+# Sustainability in Large Corporations
+
+Sustainability describes how corporations manage their **environmental**, **social**, and **governance** (ESG) responsibilities while pursuing long-term economic success. While laws define minimum acceptable behavior, ethical responsibility often goes further. What is *legal* is not always *ethical*, and the strongest sustainability leaders recognize this gap and act beyond compliance.
+
+---
+
+## Environmental Responsibility 🌍
+
+Environmental sustainability focuses on minimizing negative impacts on the planet while maintaining operational effectiveness.
+
+Moog Inc. provides a strong example of proactive environmental leadership through initiatives such as:
+
+- Reducing greenhouse gas emissions through energy efficiency and renewable energy projects  
+- Improving water efficiency, particularly at facilities in water-stressed regions  
+- Reducing hazardous waste and improving recycling and material recovery  
+- Conducting energy audits and modernizing infrastructure to lower environmental impact  
+
+These initiatives demonstrate a long-term commitment to environmental stewardship rather than a short-term compliance mindset.
+
+---
+
+## Social Responsibility ❤️
+
+Social sustainability emphasizes how companies treat employees, suppliers, and the communities in which they operate.
+
+Moog’s social initiatives include:
+
+- Supporting employee physical, mental, and financial wellbeing  
+- Investing in education, training, and professional development  
+- Encouraging inclusion and respect through employee resource groups  
+- Engaging with local and global communities through volunteering and partnerships  
+- Promoting supplier diversity and ethical supply chain practices  
+
+These actions highlight the role corporations can play in creating positive social outcomes beyond basic labor law requirements.
+
+---
+
+## Governance and Ethics 🏛️
+
+Governance sustainability ensures accountability, transparency, and ethical decision-making at all organizational levels.
+
+Key governance practices include:
+
+- Board-level oversight of sustainability strategy and performance  
+- Dedicated sustainability leadership and cross-functional teams  
+- Ethical risk management and long-term strategic planning  
+- Transparent reporting aligned with recognized ESG frameworks  
+
+Strong governance connects sustainability goals with corporate decision-making and helps ensure ethical standards are upheld even when external enforcement is limited.
+
+---
+
+## Legal vs. Ethical Responsibility
+
+A critical distinction in sustainability is the difference between legal compliance and ethical responsibility:
+
+- **Legal responsibility** sets the minimum standards companies must follow  
+- **Ethical responsibility** reflects voluntary actions guided by values, integrity, and long-term thinking  
+
+Some companies meet only legal requirements, while others—like Moog—choose to exceed them by investing in sustainability as a core business principle.
+
+---
+
+## Reflection Question
+
+**Why is there such a vast difference between businesses when it comes to sustainability?**
+
+Possible factors include:
+
+- Leadership values and corporate culture  
+- Industry norms and regulatory pressure  
+- Financial resources and long-term planning capacity  
+- Stakeholder expectations from investors, customers, and employees  
+- Perceived trade-offs between short-term profit and long-term impact  
+
+Understanding these differences is key to evaluating corporate sustainability claims and identifying genuine leaders versus those focused solely on compliance.
+
+---
+
+## Key Takeaway
+
+Sustainability is not just about following rules—it is about making conscious, ethical choices that balance profit, people, and the planet. Companies that embrace this mindset are better positioned for long-term resilience, trust, and innovation.
