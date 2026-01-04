@@ -159,7 +159,7 @@ Ethical responsibility extends beyond legal compliance. Organizations and indivi
 </p>
 
 ---
-
+<br>
 # Sustainability in Large Corporations
 
 Sustainability describes how corporations manage their **environmental**, **social**, and **governance** (ESG) responsibilities while pursuing long-term economic success. While laws define minimum acceptable behavior, ethical responsibility often goes further. What is *legal* is not always *ethical*, and the strongest sustainability leaders recognize this gap and act beyond compliance.
