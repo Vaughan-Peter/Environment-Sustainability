@@ -32,16 +32,23 @@ If you’d like to collaborate or contribute, feel free to reach out — let’s
 
 ---
 
-## 📌 What’s Inside -> Documents -> Electronic Sustainability Questions
-- ✅ 100 open-ended questions grouped into six themes:
-  - General Awareness
-  - Production & Materials
-  - Usage & Energy
-  - Disposal & Recycling
-  - Innovation & Solutions
-  - Future & Policy
-- ✅ Section summaries for discussion starters
-- ✅ Abstracts and overviews for workshops, talks, or teaching
+## 📌 What’s Inside → Documents → Electronic Sustainability Questions
+
+- **General Info:**  
+  *Electronic Sustainability Questions* — a document available in **PDF** and **Word** formats for students and teachers.  
+  Suitable as supplementary material for **sustainability**, **electronics**, or **technology-focused** classes and courses.
+
+- **Author:** Peter Vaughan
+
+---
+
+## 📌 What’s Inside → Documents → 100 Ethical Questions
+
+- **General Info:**  
+  *100 Ethical Questions* — a document available in **PDF** and **Word** formats for students and teachers.  
+  Useful for **law**, **ethics**, **electronics**, or interdisciplinary courses.
+
+- **Author:** Peter Vaughan
 
 ---
 
@@ -128,6 +135,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
