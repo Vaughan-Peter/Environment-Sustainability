@@ -95,7 +95,7 @@ The circular economy model emphasizes designing electronics for longevity, repai
   <img 
     src="https://github.com/user-attachments/assets/46db43f6-9007-41de-ab52-4a8c44b18a23" 
     alt="Circular economy in electronics illustration"
-    width="1000"
+    width="600"
   />
 </p>
 
@@ -116,13 +116,11 @@ This visual highlights how electronic products can move through **design → use
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" width="250">
   <img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" width="250">
-  <img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" width="250">
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" width="250">
   <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" width="250">
-  <img src="https://github.com/user-attachments/assets/992bb2a4-7b9a-433f-87ac-9733c75eead4" width="250">
 </p>
 
 <p align="center">
@@ -130,6 +128,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
