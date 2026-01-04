@@ -1,6 +1,6 @@
 # 🌱 Code of Conduct
 
-##Welcome! 
+## 🌱 Welcome! 
 This project is dedicated to creating, sharing, and improving content about **electronics and sustainability**.  
 We want this space to be **inclusive, respectful, and collaborative** so everyone feels encouraged to contribute.  
 
@@ -61,3 +61,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 Together, let’s build a community that promotes **respectful collaboration** and drives awareness about **sustainable electronics** 🌍⚡.  
 
 ---
+
