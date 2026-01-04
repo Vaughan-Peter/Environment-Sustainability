@@ -103,6 +103,7 @@ In contrast, **coal-burning power plants**—once the backbone of industrial ene
 If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
 
+---
 
 
 
