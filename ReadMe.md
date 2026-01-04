@@ -87,77 +87,51 @@ Feel free to use and adapt the material — just credit this repo.
 
 ---
 
+### 🔄 Circular Economy in Electronics
+
+The circular economy model emphasizes designing electronics for longevity, repairability, and reuse. Instead of a linear “use and discard” approach, materials and components are kept in circulation through repair, refurbishment, and recycling.
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/46db43f6-9007-41de-ab52-4a8c44b18a23" 
+    alt="Circular economy in electronics illustration"
+    width="400"
+  />
+</p>
+
+This visual highlights how electronic products can move through **design → use → repair → recycle → redesign**, reinforcing closed-loop systems that reduce waste and resource extraction.
+
+---
+
 ## 📸 Recycling Photo Gallery
 
 <p align="center">
-  A look at a few different recycling initiatives and drop-off points in our community within Canada. There are many more options for recycling.
+  Examples of community recycling initiatives across Canada.
 </p>
- 
----
 
-<p align="center"><b>🔋 Battery Recycling</b></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" alt="Recycle Batteries" width="500" />
+  🔋 💻 💡 🖊️ ☕ 🖨️
 </p>
 
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>💻 Electronics Recycling</b></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" alt="Recycle Electronics" width="500" />
+  <img src="https://github.com/user-attachments/assets/9b5ebf4f-da2b-4ee1-9634-b982f25bc469" width="250">
+  <img src="https://github.com/user-attachments/assets/15077c63-ac20-48f5-bc56-eb86885f98ac" width="250">
+  <img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" width="250">
 </p>
 
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>💡 Lightbulb Recycling</b></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d336c790-e928-4b1d-bd43-8f6ede070724" alt="Recycle Lightbulbs" width="500" />
+  <img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" width="250">
+  <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" width="250">
+  <img src="https://github.com/user-attachments/assets/992bb2a4-7b9a-433f-87ac-9733c75eead4" width="250">
 </p>
-
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>🖊️ Pen Recycling</b></p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c53e368c-00fb-407d-9e5d-4ac1cc469cda" alt="Recycle Pens" width="500" />
-</p>
-
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>☕ Nespresso Capsule Recycling</b></p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2e22ff2d-4760-41a5-84e2-3405da7f9541" alt="Recycling Nespresso Capsules" width="500" />
-</p>
-
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>🖨️ Printer Toner Recycling</b></p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/992bb2a4-7b9a-433f-87ac-9733c75eead4" alt="Recycling Printer Toner" width="500" />
-</p>
-
-&nbsp;  
-&nbsp;  
-
-<p align="center"><b>✏️ Writing Tools & E-Waste Collection</b></p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/18ee8293-4817-4f0b-9273-ffe2757e274b" alt="Recycling Writing Tools and E-Waste" width="500" />
-</p>
-
-&nbsp;  
-&nbsp;  
-
----
 
 <p align="center">
   <em>These images highlight some — but not all — examples of special waste recycling in Halifax, Nova Scotia.</em>
 </p>
 
 ---
+
+<img width="1024" height="1536" alt="59a0dcdf-dd2f-4dd9-849b-cd66dca07934" src="https://github.com/user-attachments/assets/46db43f6-9007-41de-ab52-4a8c44b18a23" />
 
 
 
