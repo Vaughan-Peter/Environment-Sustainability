@@ -34,9 +34,7 @@ If you’d like to collaborate or contribute, feel free to reach out — let’s
 
 ## 📌 What’s Inside → Documents → Electronic Sustainability Questions
 
-- **General Info:**  
-  *Electronic Sustainability Questions* — a document available in **PDF** and **Word** formats for students and teachers.  
-  Suitable as supplementary material for **sustainability**, **electronics**, or **technology-focused** classes and courses.
+- **General Info:**  *Electronic Sustainability Questions* — a document available in **PDF** and **Word** formats for students and teachers. Suitable as supplementary material for **sustainability**, **electronics**, or **technology-focused** classes and courses.
 
 - **Author:** Peter Vaughan
 
@@ -44,9 +42,7 @@ If you’d like to collaborate or contribute, feel free to reach out — let’s
 
 ## 📌 What’s Inside → Documents → 100 Ethical Questions
 
-- **General Info:**  
-  *100 Ethical Questions* — a document available in **PDF** and **Word** formats for students and teachers.  
-  Useful for **law**, **ethics**, **electronics**, or interdisciplinary courses.
+- **General Info:**  *100 Ethical Questions* — a document available in **PDF** and **Word** formats for students and teachers. Useful for **law**, **ethics**, **electronics**, or interdisciplinary courses.
 
 - **Author:** Peter Vaughan
 
@@ -135,6 +131,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
