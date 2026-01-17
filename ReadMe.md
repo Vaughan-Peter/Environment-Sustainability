@@ -57,7 +57,7 @@ This repository contains documents and resources to explore **sustainability, el
 ### 📂 Philippines Environment → Photos
 
 - **General Info:** This collection documents **environmental conditions in the Philippines**, highlighting the **waste management challenges** that affect local communities. Poorly managed dumpsites and the lack of sanitary landfills contribute to pollution and **respiratory health issues**, such as asthma, affecting residents like Jhun.  
-- **Electronics Application:** Some projects showcase **electronics-based solutions** for managing waste, such as **smart bins, recycling sensors, and automated waste sorting systems**, demonstrating how technology can help reduce environmental harm.  
+- **Electronics Application::** What can we do to manage this waste?
 - **Photographer / Author:** Jhun Alfred Reblando  
 - **Format:** Photos for **educational and awareness purposes**, suitable for **environmental studies, sustainability projects, or community programs**.  
 
@@ -146,6 +146,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
