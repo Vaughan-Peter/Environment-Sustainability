@@ -32,19 +32,34 @@ If you’d like to collaborate or contribute, feel free to reach out — let’s
 
 ---
 
-## 📌 What’s Inside → Documents → Electronic Sustainability Questions
+## 📌 What’s Inside
 
-- **General Info:**  *Electronic Sustainability Questions* — a document available in **PDF** and **Word** formats for students and teachers. Suitable as supplementary material for **sustainability**, **electronics**, or **technology-focused** classes and courses.
-
-- **Author:** Peter Vaughan
+This repository contains documents and resources to explore **sustainability, electronics, ethics, and environmental awareness** around the world. Each section is designed for educators, students, and anyone interested in understanding and improving our impact on the planet.
 
 ---
 
-## 📌 What’s Inside → Documents → 100 Ethical Questions
+### 📂  Documents → Electronic Sustainability Questions
 
-- **General Info:**  *100 Ethical Questions* — a document available in **PDF** and **Word** formats for students and teachers. Useful for **law**, **ethics**, **electronics**, or interdisciplinary courses.
+- **General Info:** A document containing thought-provoking questions about **electronics and environmental sustainability**. Covers the **full lifecycle of electronics**, from material sourcing to disposal.  
+- **Format:** Available in **PDF** and **Word** formats, suitable for **technology-focused classes**, workshops, and research.  
+- **Author:** Peter Vaughan  
 
-- **Author:** Peter Vaughan
+---
+
+### 📂 Documents → 100 Ethical Questions
+
+- **General Info:** A curated set of questions to spark discussion on **ethics, law, and electronics**. Encourages critical thinking about the societal and environmental impact of technology.  
+- **Format:** Available in **PDF** and **Word** formats, suitable for **ethics, interdisciplinary courses, or technology classes**.  
+- **Author:** Peter Vaughan  
+
+---
+
+### 📂 Philippines Environment → Photos
+
+- **General Info:** This collection documents **environmental conditions in the Philippines**, highlighting the **waste management challenges** that affect local communities. Poorly managed dumpsites and the lack of sanitary landfills contribute to pollution and **respiratory health issues**, such as asthma, affecting residents like Jhun.  
+- **Electronics Application:** Some projects showcase **electronics-based solutions** for managing waste, such as **smart bins, recycling sensors, and automated waste sorting systems**, demonstrating how technology can help reduce environmental harm.  
+- **Photographer / Author:** Jhun Alfred Reblando  
+- **Format:** Photos for **educational and awareness purposes**, suitable for **environmental studies, sustainability projects, or community programs**.  
 
 ---
 
@@ -131,6 +146,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
