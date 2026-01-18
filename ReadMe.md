@@ -86,8 +86,8 @@ If you’d like to add new questions, improve documentation, or share resources,
 ---
 
 ## 🧭 Code of Conduct
-We are committed to fostering a welcoming, respectful, and inclusive community.  
-By participating in this project, you agree to uphold the values of kindness, collaboration, and professionalism.  
+
+We are committed to fostering a welcoming, respectful, and inclusive community. By participating in this project, you agree to uphold the values of kindness, collaboration, and professionalism.  
 
 Please review our [Code of Conduct](Code_of_Conduct.md) to understand the standards we expect from all contributors and maintainers.  
 
@@ -96,7 +96,9 @@ If you encounter any behavior that violates these principles, please contact the
 ---
 
 ## 📖 License
+
 This project is licensed under the MIT License.  
+
 Feel free to use and adapt the material — just credit this repo.
 
 ---
@@ -148,6 +150,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
