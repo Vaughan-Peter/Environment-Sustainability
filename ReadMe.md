@@ -78,7 +78,9 @@ If you’re looking for ways to responsibly recycle items and reduce waste, here
 ---
 
 ## 🤝 Contributing
-Contributions are welcome!  
+
+Contributions are always welcome! Thank you Peter and Jhun for your continued support.
+
 If you’d like to add new questions, improve documentation, or share resources, please check out our [Contributing Guide](Contributing.md).  
 
 ---
@@ -146,6 +148,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
