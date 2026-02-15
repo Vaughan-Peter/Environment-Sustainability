@@ -34,7 +34,7 @@ If you’d like to collaborate or contribute, feel free to reach out — let’s
 
 ## 📌 What’s Inside
 
-This repository contains documents and resources to explore **sustainability, electronics, ethics, and environmental awareness** around the world. Each section is designed for educators, students, and anyone interested in understanding and improving our impact on the planet.
+This repository contains documents and resources to explore **sustainability, electronics, ethics, and environmental awareness** worldwide. Each section is designed for educators, students, and anyone interested in understanding and improving our impact on the planet.
 
 ---
 
@@ -43,22 +43,23 @@ This repository contains documents and resources to explore **sustainability, el
 A collection of thought-provoking questions and resources on **electronics, technology, and ethics**, suitable for classes, workshops, or research. All documents are authored by **Peter Vaughan** and available in various formats.
 
 - **Electronic Sustainability Questions**  
-  Questions exploring the **full lifecycle of electronics**, from material sourcing to disposal, encouraging reflection on environmental sustainability.
+  Explores the **full lifecycle of electronics**, from material sourcing to disposal, encouraging reflection on environmental sustainability.
 
 - **100 Ethical Questions**  
   Curated questions on **ethics, law, and technology**, promoting critical thinking about societal and environmental impacts.
 
 - **Additional Documents**  
-  More resources will be added over time with the assistance of other people, who will be credited in their document. Thank you for your contribution!
+  More resources will be added over time. Contributions from others will be credited within their respective documents.
 
 ---
 
-### 📂 Philippines Environment → Photos
+## 📂 Philippines Environment → Photos
 
-- **General Info:** This collection documents **environmental conditions in the Philippines**, highlighting the **waste management challenges** that affect local communities. Poorly managed dumpsites and the lack of sanitary landfills contribute to pollution and serious health issues. Some residents burn their trash, which worsens air quality and increases health problems such as asthma, affecting residents like Jhun and Peter. 
-- **Electronics Application::** What can we do to manage this waste?
+A collection documenting **environmental conditions in the Philippines**, highlighting **waste management challenges** affecting local communities. Poorly managed dumpsites and the lack of sanitary landfills contribute to pollution and health issues. Trash burning worsens air quality, leading to problems like asthma for residents such as Jhun and Peter.
+
+- **Focus / Application:** Exploring ways to better manage electronic and general waste.  
 - **Photographer / Author:** Jhun Alfred Reblando  
-- **Format:** Photos for **educational and awareness purposes**, suitable for **environmental studies, sustainability projects, or community programs**.  
+- **Format:** Photos for **educational and awareness purposes**, suitable for environmental studies, sustainability projects, or community programs.
 
 ---
 
@@ -149,6 +150,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
