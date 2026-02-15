@@ -51,7 +51,7 @@ A collection of thought-provoking questions and resources on **electronics, tech
 - **Additional Documents**  
   More resources will be added over time with the assistance of other people, who will be credited in their document. Thank you for your contribution!
 
-  ---
+---
 
 ### 📂 Philippines Environment → Photos
 
@@ -149,6 +149,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
