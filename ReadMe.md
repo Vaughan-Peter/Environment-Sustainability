@@ -38,21 +38,20 @@ This repository contains documents and resources to explore **sustainability, el
 
 ---
 
-### 📂  Documents → Electronic Sustainability Questions
+## 📂 Documents
 
-- **General Info:** A document containing thought-provoking questions about **electronics and environmental sustainability**. Covers the **full lifecycle of electronics**, from material sourcing to disposal.  
-- **Format:** Available in **PDF** and **Word** formats, suitable for **technology-focused classes**, workshops, and research.  
-- **Author:** Peter Vaughan  
+A collection of thought-provoking questions and resources on **electronics, technology, and ethics**, suitable for classes, workshops, or research. All documents are authored by **Peter Vaughan** and available in various formats.
 
----
+- **Electronic Sustainability Questions**  
+  Questions exploring the **full lifecycle of electronics**, from material sourcing to disposal, encouraging reflection on environmental sustainability.
 
-### 📂 Documents → 100 Ethical Questions
+- **100 Ethical Questions**  
+  Curated questions on **ethics, law, and technology**, promoting critical thinking about societal and environmental impacts.
 
-- **General Info:** A curated set of questions to spark discussion on **ethics, law, and electronics**. Encourages critical thinking about the societal and environmental impact of technology.  
-- **Format:** Available in **PDF** and **Word** formats, suitable for **ethics, interdisciplinary courses, or technology classes**.  
-- **Author:** Peter Vaughan  
+- **Additional Documents**  
+  More resources will be added over time with the assistance of other people, who will be credited in their document. Thank you for your contribution!
 
----
+  ---
 
 ### 📂 Philippines Environment → Photos
 
@@ -150,6 +149,7 @@ This visual highlights how electronic products can move through **design → use
 </p>
 
 ---
+
 
 
 
