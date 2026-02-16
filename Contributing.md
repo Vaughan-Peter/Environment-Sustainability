@@ -1,14 +1,14 @@
-# Contributing to Sustainable Electronics Discussions
+# Contributing to Sustainable Electronics and Technology Discussions
 
 Thank you for your interest in contributing! 🙌  
-This repository is a collaborative effort to collect, organize, and share resources, questions, and discussions around **sustainability in electronics**.  
+This repository is a collaborative effort to collect, organize, and share resources, questions, and discussions around **sustainability in electronics and technologies**.  
 
 We welcome contributions from **everyone**—whether you’re adding new questions, improving explanations, providing sources, or suggesting related topics.
 
 ---
 
 ## 📝 How You Can Contribute
-- **Add More Questions**: Propose new thought-provoking questions about electronics and sustainability.  
+- **Add More Questions**: Propose new thought-provoking questions about electronics, technology and sustainability.  
 - **Improve Documentation**: Help expand section summaries, abstracts, or discussion prompts.  
 - **Fix Errors**: Correct typos, formatting issues, or unclear wording.  
 - **Suggest Resources**: Share links to articles, reports, or videos that enrich the discussion.  
@@ -104,6 +104,7 @@ If you’re a **developer, designer, educator, or creator** interested in teamin
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
 
 ---
+
 
 
 
