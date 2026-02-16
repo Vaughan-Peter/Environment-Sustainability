@@ -9,7 +9,9 @@ Environmental degradation is a central concern throughout these discussions, as 
 ---
 
 ## 🎯 Purpose
+
 The goal is to **raise awareness** and encourage **collaborative learning** about how electronics affect our planet, and what we can do to make technology more sustainable.  
+
 By examining environmental degradation alongside technological progress, this repository emphasizes the importance of reducing harm, improving accountability, and designing electronics with long-term ecological impact in mind.  
 
 This repo is useful for:
@@ -177,6 +179,7 @@ A collection of YouTube Shorts showing cardboard bales and related scenes:
   ▶️ https://youtu.be/suGrXu1sXb8
 
 ---
+
 
 
 
