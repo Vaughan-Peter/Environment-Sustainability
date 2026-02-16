@@ -151,6 +151,32 @@ This visual highlights how electronic products can move through **design → use
 
 ---
 
+## 📹 Video References in Our Documents!
+
+### 🚮 Litter in Quezon City, Philippines
+
+**YouTube Short:**  
+▶️ https://youtu.be/u9qJGSxHBKk
+
+---
+
+## 📦 Cardboard Bales Videos
+
+A collection of YouTube Shorts showing cardboard bales and related scenes:
+
+- **Video 1**  
+  ▶️ https://youtu.be/kMo65vud9M4
+
+- **Video 2**  
+  ▶️ https://youtu.be/Yju5AaPls00
+
+- **Video 3**  
+  ▶️ https://youtu.be/nrAy-dqpeu8
+
+- **Video 4**  
+  ▶️ https://youtu.be/suGrXu1sXb8
+
+---
 
 
 
