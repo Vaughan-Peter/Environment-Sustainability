@@ -34,7 +34,8 @@ I’m looking to **connect with individuals, educators, and organizations** who 
 
 This collaboration can take many forms — from content writing and data visualization to designing educational materials or developing local recycling guides.
 
-💡 **Note:**  
+💡 **Note**  
+
 Participation in this project can be recognized as a **work placement or experiential learning opportunity** for school programs related to:
 - Environmental Studies  
 - Sustainability  
@@ -52,6 +53,7 @@ Let’s work together to build a cleaner, more sustainable future — one projec
 ---
 
 ## ✅ Guidelines
+
 - Keep new questions **open-ended** (to spark discussion).  
 - Stay on-topic: electronics, environment, and sustainability.  
 - Be respectful and constructive in PR comments and discussions.  
@@ -60,6 +62,7 @@ Let’s work together to build a cleaner, more sustainable future — one projec
 ---
 
 ## 💡 Suggestions
+
 If you have ideas or feedback, feel free to open a discussion or reach out with your suggestions.  
 Even small contributions—like fixing a typo—help make this repo better!
 
@@ -99,10 +102,10 @@ In contrast, **coal-burning power plants**—once the backbone of industrial ene
 
 ---
 
-If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together.
-Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
+If you’re a **developer, designer, educator, or creator** interested in teaming up — let’s connect and build something together. Thanks for helping build a shared knowledge base on **sustainable electronics and technologies** 🌍⚡
 
 ---
+
 
 
 
