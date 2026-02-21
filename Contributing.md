@@ -1,7 +1,6 @@
 # Contributing to Sustainable Electronics and Technology Discussions
 
-Thank you for your interest in contributing! 🙌  
-This repository is a collaborative effort to collect, organize, and share resources, questions, and discussions around **sustainability in electronics and technologies**.  
+Thank you for your interest in contributing! 🙌 This repository is a collaborative effort to collect, organize, and share resources, questions, and discussions around **sustainability in electronics and technologies**.  
 
 We welcome contributions from **everyone**—whether you’re adding new questions, improving explanations, providing sources, or suggesting related topics.
 
@@ -104,6 +103,7 @@ If you’re a **developer, designer, educator, or creator** interested in teamin
 Thanks for helping build a shared knowledge base on **sustainable electronics** 🌍⚡
 
 ---
+
 
 
 
