@@ -42,7 +42,7 @@ This repository contains documents and resources to explore **sustainability, el
 
 ## 📂 Documents
 
-A collection of thought-provoking questions and resources on **electronics, technology, and ethics**, suitable for classes, workshops, or research. All documents are authored by **Peter Vaughan** and available in various formats.
+A curated collection of thought-provoking questions and curated resources exploring **electronics, technology, and ethics**. Designed for use in classrooms, workshops, and research settings, these materials encourage critical analysis and interdisciplinary discussion. All documents are authored by **Peter Vaughan** and additional contributors as credited within each work. Available in multiple formats for flexible use.
 
 - **Electronic Sustainability Questions**  
   Explores the **full lifecycle of electronics**, from material sourcing to disposal, encouraging reflection on environmental sustainability.
@@ -179,6 +179,7 @@ A collection of YouTube Shorts showing cardboard bales and related scenes:
   ▶️ https://youtu.be/suGrXu1sXb8
 
 ---
+
 
 
 
