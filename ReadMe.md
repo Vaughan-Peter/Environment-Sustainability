@@ -81,7 +81,7 @@ If you’re looking for ways to responsibly recycle items and reduce waste, here
 
 ## 🤝 Contributing
 
-Contributions are always welcome! Thank you Peter and Jhun for your continued support.
+Contributions are always welcome! Thank you Peter, Jhun and Other Halifax Projects for your continued support.
 
 If you’d like to add new questions, improve documentation, or share resources, please check out our [Contributing Guide](Contributing.md).  
 
