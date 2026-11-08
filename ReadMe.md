@@ -50,8 +50,8 @@ A curated collection of thought-provoking questions and curated resources explor
 - **100 Ethical Questions**  
   Curated questions on **ethics, law, and technology**, promoting critical thinking about societal and environmental impacts.
 
-- **Additional Documents**  
-  More resources will be added over time. Contributions from others will be credited within their respective documents.
+- **Additional Documents and Programs**  
+  More resources will be added over time. Contributions from others will be credited within their respective documents and programs.
 
 ---
 
