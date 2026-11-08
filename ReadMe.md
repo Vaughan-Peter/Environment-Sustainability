@@ -107,7 +107,19 @@ Feel free to use and adapt the material — just credit this repo.
 
 ## 💡 Inspiration
 
-> “Can technology itself solve the problems caused by technology?”  
+> “Can technology itself solve the problems caused by technology?”
+
+### 🌐 Environmental & Climate Resources
+
+The following resources provide educational material, scientific information, and different perspectives on environmental sustainability, climate change, and the challenges facing our planet.
+
+- **[Just Have a Think – YouTube](https://www.youtube.com/justhaveathink)**  
+  An educational YouTube channel exploring climate change, environmental challenges, scientific developments, renewable energy, emerging technologies, and potential solutions. A useful source of discussion topics and ideas for students, educators, and anyone interested in understanding environmental issues.
+
+- **[Met Office – Weather and Climate](https://www.metoffice.gov.uk/)**  
+  The United Kingdom's national meteorological service. Provides weather information, climate science, environmental research, educational resources, and explanations of climate change. Useful for understanding weather patterns, global climate trends, and the scientific evidence behind environmental changes.
+
+These resources can be used to support classroom discussions, research projects, environmental awareness activities, and questions about how technology, human activity, and policy decisions affect our planet.
 
 ---
 
@@ -116,8 +128,8 @@ Feel free to use and adapt the material — just credit this repo.
 The circular economy model emphasizes designing electronics for longevity, repairability, and reuse. Instead of a linear “use and discard” approach, materials and components are kept in circulation through repair, refurbishment, and recycling.
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/46db43f6-9007-41de-ab52-4a8c44b18a23" 
+  <img
+    src="https://github.com/user-attachments/assets/46db43f6-9007-41de-ab52-4a8c44b18a23"
     alt="Circular economy in electronics illustration"
     width="600"
   />
