@@ -107,7 +107,7 @@ Feel free to use and adapt the material — just credit this repo.
 
 ## 💡 Inspiration
 
-> “Can technology itself solve the problems caused by technology?”
+“Can technology itself solve the problems caused by technology?”
 
 ### 🌐 Environmental & Climate Resources
 
@@ -121,7 +121,6 @@ The following resources provide educational material, scientific information, an
 
 These resources can be used to support classroom discussions, research projects, environmental awareness activities, and questions about how technology, human activity, and policy decisions affect our planet.
 
----
 
 ### 🔄 Circular Economy in Electronics
 
@@ -171,8 +170,6 @@ This visual highlights how electronic products can move through **design → use
 
 **YouTube Short:**  
 ▶️ https://youtu.be/u9qJGSxHBKk
-
----
 
 ## 📦 Cardboard Bales Videos
 
